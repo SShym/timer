@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+* {
+  text-align: center;
+  font-family: "Mulish", sans-serif;
+}
+
+button {
+  margin: 4px;
+}
